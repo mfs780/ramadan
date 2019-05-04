@@ -1,0 +1,195 @@
+{
+  "Deeds" : [ {
+    "Category" : "Prayers",
+    "Description" : "If you miss one that's sad",
+    "Limit" : 5,
+    "Points" : 20,
+    "Text" : "5 Daily Prayers"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Pray all your Sunnah Prayers!",
+    "Limit" : 1,
+    "Points" : 50,
+    "Text" : "All Sunnah Prayers (12 Rakats)"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Wake up Early!",
+    "Limit" : 1,
+    "Points" : 50,
+    "Text" : "Qiyaam At Masjid"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Points for every 2 Rakat!",
+    "Limit" : 20,
+    "Points" : 10,
+    "Text" : "Qiyaam (Tahujjud)"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Go to the Masjid!",
+    "Limit" : 5,
+    "Points" : 15,
+    "Text" : "Fard at the Masjid"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Go to the Majsid Early!",
+    "Limit" : 5,
+    "Points" : 5,
+    "Text" : "Tahiyatul Masjid"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "You can read Quran while waiting",
+    "Limit" : 1,
+    "Points" : 15,
+    "Text" : "Ishraq / Doha"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Points for every Juz Read",
+    "Limit" : 5,
+    "Points" : 100,
+    "Text" : "Juz in Arabic"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Points for every Juz Read",
+    "Limit" : 5,
+    "Points" : 80,
+    "Text" : "Juz in English"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Points for every 2 Rakat!",
+    "Limit" : 8,
+    "Points" : 15,
+    "Text" : "Taraweh At Masjid"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Stay Sitting! Make Dua!",
+    "Limit" : 5,
+    "Points" : 10,
+    "Text" : "Adhkar+Dua after Every Salah"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Before checking your phone",
+    "Limit" : 1,
+    "Points" : 5,
+    "Text" : "Dua for Waking Up"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Suhoor is also Worship",
+    "Limit" : 1,
+    "Points" : 15,
+    "Text" : "Wakeup and Eat Suhoor"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Morning and Night",
+    "Limit" : 2,
+    "Points" : 5,
+    "Text" : "Dua for Changing Clothes"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Have a truly beautiful Morning",
+    "Limit" : 1,
+    "Points" : 10,
+    "Text" : "Morning Adhkar"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Right Food First",
+    "Limit" : 5,
+    "Points" : 5,
+    "Text" : "Dua for Entering Masjid"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Left Foot First",
+    "Limit" : 5,
+    "Points" : 5,
+    "Text" : "Dua for Leaving Masjid"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Have a tranquil Evening",
+    "Limit" : 1,
+    "Points" : 10,
+    "Text" : "Evening Adhkar"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Don't Delay",
+    "Limit" : 1,
+    "Points" : 30,
+    "Text" : "Prayed Each Prayer Early"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Say Bismillah before Eating!",
+    "Limit" : 1,
+    "Points" : 5,
+    "Text" : "Dua for Breaking Fast"
+  }, {
+    "Category" : "Habits",
+    "Description" : "You will eventually memorize it",
+    "Limit" : 1,
+    "Points" : 25,
+    "Text" : "Read Surah Mulk Before Sleeping"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Right before sleeping",
+    "Limit" : 1,
+    "Points" : 5,
+    "Text" : "Dua before Sleeping"
+  }, {
+    "Category" : "Habits",
+    "Description" : "Full Surah before Maghrib",
+    "Limit" : 1,
+    "Points" : 40,
+    "Text" : "Read Surah Al-Kahf (Friday)"
+  }, {
+    "Category" : "Charity",
+    "Description" : "Points if they hug you back",
+    "Limit" : 1,
+    "Points" : 10,
+    "Text" : "Hug your parents/ spouse"
+  }, {
+    "Category" : "Charity",
+    "Description" : "Even a $1 Each Day!",
+    "Limit" : 1,
+    "Points" : 10,
+    "Text" : "Donate to Charity"
+  }, {
+    "Category" : "Charity",
+    "Description" : "Give some charity to your body",
+    "Limit" : 1,
+    "Points" : 10,
+    "Text" : "Exercise at least 10 min"
+  }, {
+    "Category" : "Charity",
+    "Description" : "They are your Parents!",
+    "Limit" : 1,
+    "Points" : 10,
+    "Text" : "Make Dua for your Parents"
+  }, {
+    "Category" : "Charity",
+    "Description" : "For the Ummah!",
+    "Limit" : 1,
+    "Points" : 10,
+    "Text" : "Make Dua for the Ummah"
+  }, {
+    "Category" : "Charity",
+    "Description" : "For the Sisters, Brothers can help",
+    "Limit" : 1,
+    "Points" : 30,
+    "Text" : "Preparing Suhoor for others"
+  }, {
+    "Category" : "Charity",
+    "Description" : "For the Sisters, Brothers can help",
+    "Limit" : 1,
+    "Points" : 30,
+    "Text" : "Preparing Iftar for others"
+  }, {
+    "Category" : "Prayers",
+    "Description" : "Short Nights in Summer!",
+    "Limit" : 1,
+    "Points" : 100,
+    "Text" : "Itikhaf"
+  }, {
+    "Category" : "Charity",
+    "Description" : "Sharing is Caring",
+    "Limit" : 1,
+    "Points" : 15,
+    "Text" : "Read a Hadith and Share It"
+  } ]
+}
